@@ -1,0 +1,23 @@
+# Compiled files
+
+*.hex
+*.bin
+
+# Keil temporary files
+*.uvguix.*
+*.uvoptx
+JLinkLog.txt
+DebugConfig/
+*.backup
+
+# Build folders
+Build/
+Output/
+Listings/
+Objects/
+RTE/
+
+# Windows
+Thumbs.db
+desktop.ini
+.DS_Store
