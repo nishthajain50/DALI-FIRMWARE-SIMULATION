@@ -57,7 +57,7 @@ This firmware implements a DALI (Digital Addressable Lighting Interface) complia
 5. Press **F5** to run
 
 ## License
-MIT License - feel free to use and modify
+MIT License 
 
 ## Author
-[Your Name]
+Nishtha jain
